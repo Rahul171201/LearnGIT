@@ -1,3 +1,3 @@
 # LearnGIT
 My first git repository
-NISCHAY NAGAR is requested
+This is just a test repository for playing around
